@@ -2,5 +2,5 @@
 # returns the phrase
 def parrot(default="Squawk!")
   puts default
-  returns
+  return default
 end
